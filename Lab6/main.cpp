@@ -1,3 +1,7 @@
+//Pierre Edward Mendy
+//CS235 
+//Lab 6 - Complex
+
 #include "Comp.h"
 #include <iostream>
 
